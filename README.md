@@ -41,10 +41,7 @@ Para el monitoreo del sistema, creé un script en bash llamado [monitoring.sh](.
 Born2beRoot no es solo un proyecto, es una demostración de habilidades en administración de sistemas y virtualización. Mi enfoque meticuloso y determinado en cumplir y superar los requisitos evidencia mi capacidad y compromiso en entregar soluciones de alta calidad en el ámbito de la informática.
 
 ---
-[Pablo Palma](mailto:pablopalmappr@gmail.com)
 
----
-
-📜 [LinkedIn](https://www.linkedin.com/in/pablopalmarodr%C3%ADguez/) | 📧 [Correo](pablopalmappr@gmail.com.com) 
+👤 Pablo Palma](mailto:pablopalmappr@gmail.com) | 📜 [LinkedIn](https://www.linkedin.com/in/pablopalmarodr%C3%ADguez/) | 📧 [Correo](pablopalmappr@gmail.com) 
 
 ---
