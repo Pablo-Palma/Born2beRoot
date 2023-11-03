@@ -42,6 +42,6 @@ Born2beRoot no es solo un proyecto, es una demostración de habilidades en admin
 
 ---
 
-👤 [Pablo Palma](mailto:pablopalmappr@gmail.com) | 📜 [LinkedIn](https://www.linkedin.com/in/pablopalmarodr%C3%ADguez/) | 📧 [Correo](pablopalmappr@gmail.com) 
+📜 [LinkedIn](https://www.linkedin.com/in/pablopalmarodr%C3%ADguez/) | 📧 [Correo](pablopalmappr@gmail.com) 
 
 ---
